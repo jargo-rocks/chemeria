@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Citi<sup>&reg;</sup> Diamond Preferred<sup>&reg;</sup> Card",
+    "cardImage": "citi-diamond-preferred-card.jpg",
+    "offeringHeading": "24/7 access to concierge service for booking hotels, flights and more.",
+    "offeringSubheading": "Plus, no anual fee!",
+    "features": ["time-apr", "transfer", "no-fee", "rewards"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "24/7 concierge service for help booking hotels, flights, concert tickets and much more. Register your covered purchases with Citi<sup>&reg;</sup> Price Rewind and it will search for a lower price on retailers' sites. Learn more at <a href=''>citi.com/pricerewind.</a>"
+      },
+      {
+        "title": "Annual fee",
+        "description": "No annual fee.<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "0% Intro APR for 18 months on balance transfers and purchases. After that, the variable APR will be 11.99% - 21.99%, based on your creditworthiness. A balance transfer fee of 3% of the amount of each transfer will be applied, $5 minimum."
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi Simplicity<sup>&reg;</sup> Card",
+    "cardImage": "citi-simplicity-card.jpg",
+    "offeringHeading": "No late fees – ever.<br> No penalty rate – ever.<br> No annual fee – ever.",
+    "offeringSubheading": "Plus, low intro APR.",
+    "features": ["time-apr", "transfer", "no-fee"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "No late fees, no penalty rate and no annual fee - ever.<sup>1</sup> Plus our lowest intro APR for 18 months on purchases and balance transfers. Get fast, personal help, 24 hours a day."
+      },
+      {
+        "title": "Annual fee",
+        "description": "No annual fee.<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "0% Intro APR on purchases and balance transfers for 18 months; after that the variable APR will be 12.99% - 21.99%, based on your creditworthiness.<sup>1</sup> A balance transfer fee of 3% of the amount of each transfer will be applied, $5 minimum.<sup>2</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing amp; Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi<sup>&reg;</sup> Double Cash Card",
+    "cardImage": "citi-double-cash-card.jpg",
+    "offeringHeading": "Earn Cash Back TWICE:",
+    "offeringSubheading": "1% when you buy and 1% as you pay.",
+    "features": ["cashback", "time-apr", "transfer", "no-fee"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "The only card that lets you earn unlimited cash back twice with 1% on purchases and 1% as you pay for those purchases in full or over time. No caps and no category restrictions. No Enrollments in Rotating Categories. Balance transfer fee either $5 or 3% fee of the amount of each balance transfer, whichever is greater.<sup>1</sup>"
+      },
+      {
+        "title": "Annual fee",
+        "description": "No annual fee."
+      },
+      {
+        "title": "APR",
+        "description": "0% Intro APR on purchases & balance transfers for 15 months; after that the variable APR will be 12.99% - 22.99%, based on your creditworthiness."
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"}
+      ]
+  },
+  {
+    "name": "Citi<sup>&reg;</sup> ThankYou<sup>&reg;</sup> Preferred Card",
+    "cardImage": "citi-thankyou-preferred-card.jpg",
+    "offeringHeading": "Earn 20,000 Bonus ThankYou<sup>&reg;</sup> Points<sup>1</sup>",
+    "offeringSubheading": "After you spend $1,500 in 3 months. Plus, no annual fee!",
+    "features": ["time-apr", "transfer", "no-fee", "points"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 20,000 Bonus ThankYou<sup>&reg;</sup> Points after you spend $1,500 in purchases within 3 months of account opening - redeemable for $200 in gift cards.<sup>1</sup> 2 ThankYou<sup>&reg;</sup> Points per dollar spent on purchases for dining at restaurants and entertainment.<sup>1</sup> 1 ThankYou® Point per $1 spent on other purchases.<sup>2</sup> Points do not expire and earn unlimited ThankYou<sup>&reg;</sup> Points.<sup>2</sup> Exclusive events for ThankYou Cardmembers. Balance transfer fee either $5 or 3% fee of the amount of each balance transfer, whichever is greater.<sup>2</sup>"
+      },
+      {
+        "title": "Annual fee",
+        "description": "No annual fee."
+      },
+      {
+        "title": "APR",
+        "description": "0% Intro APR on purchases & balance transfers for 12 months; after that the variable APR will be 12.99% - 22.99%, based on your creditworthiness."
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Additional Information"},
+      { "<sup>2</sup>":"Pricing and Information"}
+    ]
+  },
+  {
+    "name": "Citi<sup>&reg;</sup> / AAdvantage<sup>&reg;</sup> Platinum Select<sup>&reg;</sup> MasterCard<sup>&reg;</sup>",
+    "cardImage": "citi-aadvantage-platinum-select-mastercard.jpg",
+    "offeringHeading": "Earn 50,000 American Airline AAdvantage<sup>&reg;</sup> Bonus Miles<sup>1</sup>",
+    "offeringSubheading": "After you spend $3,000 in 3 months.",
+    "features": ["transfer", "rewards", "points", "miles"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 50,000 American Airlines AAdvantage<sup>&reg;</sup> bonus miles and 2 Admirals Club<sup>&reg;</sup> One–Day Passes after making $3,000 in purchases within the first 3 months of cardmembership.",
+        "lists":[
+          {
+            "elements":[
+              "Your first checked bag is free for you and up to four travel companions.<sup>2</sup>",
+              "Enjoy Group 1 Boarding, and use the extra time to prepare for your flight.<sup>2</sup>",
+              "You earn 2 AAdvantage<sup>&reg;</sup> miles for every $1 spent on eligible American Airlines purchases, including US Airways codeshare flights booked through American Airlines<sup>3</sup>. Plus, earn 1 AAdvantage<sup>&reg;</sup> mile per $1 spent on other purchases.",
+              "Receive 25% savings on in-flight food and beverage purchases when you use your card on American Airlines flights.<sup>2</sup>"
+            ]
+          },
+          {
+            "heading":"Additional Citi<sup>&reg;</sup> Platinum Select<sup>&reg;</sup> / AAdvantage<sup>&reg;</sup> World MasterCard<sup>&reg;</sup> benefits:",
+            "elements":[
+              "Earn 10% of your redeemed AAdvantage<sup>&reg;</sup> miles back – up to 10,000 AAdvantage<sup>&reg;</sup> miles each calendar year.",
+              "Earn a $100 American Airlines Flight Discount each year of cardmembership in which you spend $30,000 or more in purchases and renew your cardmembership.",
+              "Travel with ease and enjoy global acceptance with your Citi chip credit card."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "$95 (Fee waived for the first 12 months).<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "13.99% - 21.99% variable APR based on your creditworthiness.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "CitiBusiness<sup>&reg;</sup> / AAdvantage<sup>&reg;</sup> Platinum Select<sup>&reg;</sup> World MasterCard<sup>&reg;</sup>",
+    "cardImage": "citibusiness-aadvantage-platinum-select-world-mastercard.jpg",
+    "offeringHeading": "Earn 50,000 American Airline AAdvantage<sup>&reg;</sup> Bonus Miles",
+    "offeringSubheading": "After you spend $3,000 in 3 months.",
+    "features": ["transfer", "rewards", "points", "miles", "business"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 50,000 American Airlines AAdvantage<sup>&reg;</sup> bonus miles and 2 Admirals Club<sup>&reg;</sup> One–Day Passes after making $3,000 in purchases within the first 3 months of cardmembership.",
+        "lists":[
+          {
+            "elements":[
+              "Get the first checked bag free for you and up to four travel companions.&#8224;",
+              "Enjoy Group 1 Boarding and use the extra time to prepare for your flight.<sup>1</sup>",
+              "You earn 2 AAdvantage<sup>&reg;</sup> miles for every $1 spent on eligible American Airlines purchases, including US Airways codeshare flights booked through American Airlines<sup>3</sup>, and on purchases at certain office supply, telecommunications and car rental merchants. Plus, earn 1 AAdvantage<sup>&reg;</sup> mile per $1 spent on other purchases.",
+              "Receive 25% savings on in-flight food and beverage purchases when you use your card on American Airlines flights.<sup>2</sup>"
+            ]
+          },
+          {
+            "heading":"Additional CitiBusiness<sup>&reg;</sup> / AAdvantage<sup>&reg;</sup> World MasterCard<sup>&reg;</sup> benefits:",
+            "elements":[
+              "Renew your annual cardmembership and earn a 5% AAdvantage<sup>&reg;</sup> mileage bonus based upon eligible purchases made during the cardmembership year.",
+              "Earn an American Airlines Companion Certificate for domestic main cabin travel after you spend $30,000 or more in purchases each cardmembership year and cardmembership is renewed. Redeeming the certificate costs $99 for the ticketing fee plus $21.60 to $43.20 in government taxes and fees based on itinerary."
+            ]
+          }
+
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "$95, waived for the first 12 months.<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "13.99% - 22.99% variable APR based on your creditworthiness.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi ThankYou<sup>&reg;</sup> Premier Card",
+    "cardImage": "citi-thankyou-premier-card.jpg",
+    "offeringHeading": "Earn Up to 20,000 Bonus ThankYou<sup>&reg;</sup> Points",
+    "offeringSubheading": "After you spend $2,000 in 3 months – with the possibility for more.",
+    "features": ["transfer", "rewards", "points"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 20,000 points after $2,000 in purchases within the first 3 months of account opening, earn 30,000 points after another $3,000 in purchases within the first 3 months of your second year of being a cardmember. 50,000 bonus points are redeemable for up to $500 in gift cards, up to $625 for airfare or other great rewards.<sup>2</sup> ",
+        "lists":[
+          {
+            "elements":[
+              "3x ThankYou Points on Dining out and Entertainment.<sup>2</sup>",
+              "2x ThankYou Points on Airfare, Hotels and Travel Agencies.<sup>2</sup>",
+              "1x ThankYou Points on other purchases.<sup>1</sup>",
+              "No foreign transaction fees on purchases<sup>1</sup>"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "$125, waived for the first 12 months.<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "13.99% - 22.99% variable APR based on your creditworthiness.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi<sup>&reg;</sup> Hilton HHonors<sup>TM</sup> Visa Signature<sup>&reg;</sup> Card",
+    "cardImage": "citi-hilton-hhonors-visa-signature-card.jpg",
+    "offeringHeading": "40,000 Hilton HHonors Bonus Points",
+    "offeringSubheading": "After you spend $1,000 in 4 months. Plus, no annual fee!",
+    "features": ["transfer", "no-fee", "rewards", "points"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 40,000 Hilton HHonors Bonus Points after making $1,000 in purchases within the first 4 months of account opening<sup>1</sup> ",
+        "lists":[
+          {
+            "elements":[
+              "6 HHonors Bonus Points for every $1 spent on hotel stays within the Hilton HHonors portfolio.<sup>1,2</sup>",
+              "3 HHonors Bonus Points for every $1 spent at supermarkets, drugstores, and gas stations.<sup>1,3</sup>",
+              "2 HHonors Bonus Points for every $1 spent on other purchases.<sup>1</sup>",
+              "HHonors Silver status with fast-track to HHonors Gold status after 4 stays within your first 90 days of cardmembership.",
+              "Visa Signature<sup>&reg;</sup> Benefits, including concierge service."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "No Annual Fee.1<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "15.24%, 17.24% or 19.24% variable APR based on your creditworthiness.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi Prestige<sup>&reg;</sup> Card",
+    "cardImage": "citi-prestige-card.jpg",
+    "offeringHeading": "Earn 30,000 Bonus ThankYou® Points",
+    "offeringSubheading": "After you spend $2,000 in 3 months.",
+    "features": ["transfer", "rewards", "points"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 30,000 bonus ThankYou<sup>&reg;</sup> Points, plus enjoy superior rewards, service and travel benefits after making $3,000 in purchases within the first 3 months of cardmembership.",
+        "lists":[
+          {
+            "elements":[
+              "Earn 3 ThankYou Points per $1 spent on Air Travel and Hotels.",
+              "Earn 2 ThankYou Points on Dining at Restaurants and Entertainment.",
+              "Earn 1 ThankYou&reg; Point per $1 spent on other purchases. ",
+              "Enjoy a $250 air travel credit each year, complimentary access to American Airlines Admirals Club&reg; lounges, plus hundreds of VIP lounges through Priority Pass<sup>TM</sup> Select, and an annual worldwide 4<sup>th</sup> night stay at any hotel property.",
+              "No foreign transaction fees on purchases.",
+              "Assistance from the global Citi Prestige Concierge team."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "$450 "
+      },
+      {
+        "title": "APR",
+        "description": "15.24% variable APR.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  },
+  {
+    "name": "Citi<sup>&reg;</sup> ThankYou<sup>&reg;</sup> Preferred Card for College Students",
+    "cardImage": "citi-thankyou-preferred-card-for-college-students.jpg",
+    "offeringHeading": "2,500 Bonus ThankYou<sup>&reg;</sup> Points",
+    "offeringSubheading": "After you spend $500 in 3 months. Plus, no annual fee!",
+    "features": ["time-apr", "transfer", "no-fee", "rewards", "points", "students"],
+    "details": [
+      {
+        "title": "Card Benefits",
+        "description": "Earn 2,500 Bonus ThankYou® Points after spending $500 within the first 3 months of cardmembership.<sup>2</sup> ",
+        "lists":[
+          {
+            "elements":[
+              "2 ThankYou® Points per dollar spent on purchases for dining at restaurants and entertainment.<sup>2</sup>",
+              "1 ThankYou® Point per $1 spent on other purchases.<sup>1</sup>",
+              "Earn unlimited ThankYou® Points. Points do not expire.<sup>1</sup>",
+              "Exclusive events for ThankYou Cardmembers."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Annual Fee",
+        "description": "No Annual Fee.<sup>1</sup>"
+      },
+      {
+        "title": "APR",
+        "description": "0% Intro APR on purchases for 7 months; after that the variable APR will be 13.99% - 23.99%, based on your creditworthiness.<sup>1</sup>"
+      }
+    ],
+    "disclaimers": [
+      { "<sup>1</sup>":"Pricing and Information"},
+      { "<sup>2</sup>":"Additional Information"}
+    ]
+  }
+]
